@@ -1,4 +1,6 @@
 # gndec-custom-homepage
+
+## Description
 Developed homepage similar to www.gndec.ac.in in bootstrap
 
 ## Running live at
